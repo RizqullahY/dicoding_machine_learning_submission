@@ -1,3 +1,12 @@
+
+```bash
+https://colab.research.google.com/github/RizqullahY/
+dicoding_machine_learning_submission/blob/master/
+Klasifikasi/[Clustering]_Submission_Akhir_BMLP_Rafly_Rizqullah_Yusuf.ipynb
 ```
-https://colab.research.google.com/github/RizqullahY/dicoding_machine_learning_submission/blob/master/Klasifikasi/Copy_of_%5BKlasifikasi%5D_Submission_Akhir_BMLP_Rafly_Rizqullah_Yusuf.ipynb
+
+```
+https://colab.research.google.com/github/RizqullahY/
+dicoding_machine_learning_submission/blob/master/
+Klasifikasi/[Klasifikasi]_Submission_Akhir_BMLP_Rafly_Rizqullah_Yusuf.ipynb
 ```
